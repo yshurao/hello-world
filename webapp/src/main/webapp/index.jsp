@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>New user Register for DevOps advanced Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -21,6 +21,7 @@
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
+   
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
