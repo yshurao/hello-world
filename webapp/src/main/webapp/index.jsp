@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou vaishu, you have completed the kubernetes course </h1>
+   <h1> Thankyou vaishu, you have completed CI course </h1>
 
   
 </form>
